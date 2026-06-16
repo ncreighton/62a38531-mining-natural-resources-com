@@ -1,2 +1,28 @@
-# 62a38531-mining-natural-resources-com
-Stop losing millions to blind spots in your competitor intelligence — this Notion template turns scattered data into a strategic advantage for mining and natural resources firms.  This template solves the chaos of tracking competitors across multiple spreadsheets, news sources, and emails by providing a centralized, automated system tailored to the
+# Mining & Natural Resources Competitor Intelligence Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x24gzcLl1g0g88fQ8d0k0D)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x24gzcLl1g0g88fQ8d0k0D)
+
